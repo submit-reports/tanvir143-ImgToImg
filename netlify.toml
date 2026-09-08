@@ -1,0 +1,7 @@
+[build]
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/tanvir/pti"
+  to = "/.netlify/functions/pti"
+  status = 200
