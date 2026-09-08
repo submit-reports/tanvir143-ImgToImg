@@ -100,7 +100,6 @@ exports.handler = async (event) => {
         success: true,
         status: 200,
         author: "Tanvir143",
-        model: "Flux Kontext Dev",
         type: "image-to-image",
         prompt,
         ratio,
